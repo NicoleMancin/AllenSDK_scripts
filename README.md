@@ -26,3 +26,13 @@ conda install -c conda-forge notebook
 
 pip install notebook
 
+pip install pandas
+
+pip install matplotlib
+
+pip install imageio
+
+pip install os
+
+pip install scipy
+
