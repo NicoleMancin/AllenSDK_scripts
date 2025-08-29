@@ -11,7 +11,6 @@ https://allensdk.readthedocs.io/en/latest/allensdk.api.queries.mouse_connectivit
 https://community.brain-map.org/c/how-to/mouse-connectivity-atlas/31
 
 Before starting, remind that you have to install the allenSDK package on anaconda. I suggest creating a virtual environment specifically for it, as works on older versions of python.
-
 My suggestion:
 
 conda create -n allensdk_env python=3.10
@@ -26,3 +25,14 @@ conda install -c conda-forge notebook
 
 pip install notebook
 
+pip install pandas
+
+pip install matplotlib
+
+pip install imageio
+
+pip install os
+
+pip install scipy
+
+pip install seaborn
